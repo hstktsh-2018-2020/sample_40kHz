@@ -1,0 +1,2 @@
+NET "CLK" LOC = "D11";
+NET "trans"  LOC = "T10" | IOSTANDARD = LVTTL;
